@@ -32,14 +32,10 @@ check.addEventListener("click", function checkTriangle(){
     
     console.log(sum);
 
-    if (input1.value == "" || input2.value == "" || input3.value == "" ) {
-        showMessage("Enter all the values");
+    if (input1.value == "" || input2.value == "" || input3.value == "" || input1.value < 0 || input2.value < 0 || input3.value < 0) {
+        showMessage("Enter all the Positive values");
     } 
     else {
         triangleChecker(sum);
     }
-
-
-    
-
 })
