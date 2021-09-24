@@ -7,4 +7,9 @@
 - For Area calculator, enter the values for base and height. The app will calculate the area.
 - for Hypotenues calculator, enter the length of two sides. The app will calculate the length of Hypotenues.
 
+## technology stack used
+- html
+- css
+- Vanilla JS
+
 Check out the [Live App](https://funwithtriangles-mk.netlify.app/)
