@@ -117,6 +117,18 @@ h1 {
     margin: 1rem;
 }
 
+.homepagelinks {
+    text-decoration-line: none;
+    color: var(--customdark);
+    font-weight: bolder;
+    font-size: xx-large;
+}
 
-
+.indexlinks {
+    text-align: center;
+    background-color: var(--customlight1);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}
 
