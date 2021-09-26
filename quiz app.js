@@ -2,7 +2,7 @@ var quizForm = document.querySelector("#quizform")
 var submitButton = document.querySelector("#submit-btn")
 var result = document.querySelector("#result")
 
-var correctAnswers = ["scalene triangle", "right angle triangle", "1 ⁄ 2 × bh", "90"];
+var correctAnswers = ["scalene triangle", "right angle triangle", "1 ⁄ 2 × bh", "90", "120", "all 3 angles same", "45",  "greater than third side"];
 
 var radioButton = document.getElementsByTagName('input');
 
